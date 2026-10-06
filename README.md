@@ -1,6 +1,8 @@
 # Hi, I'm Nihal 👋
 
-Android tinkerer — I build open-source tools like [SnapTile](https://github.com/nihal697/SnapTile).
+Business operations person — I design structured workflows, practical automation, and documentation ([BOSD portfolio](https://github.com/nihal697/business-operations-portfolio)).
+
+Learning in the open: I tweak and extend open-source tools — e.g. my [SnapTile fork](https://github.com/nihal697/SnapTile) (upstream by [@hashierholmes](https://github.com/hashierholmes)), [OCX](https://github.com/nihal697/ocx), [broker-telegram-bridge](https://github.com/nihal697/broker-telegram-bridge).
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nihal-anand)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/nihal697)

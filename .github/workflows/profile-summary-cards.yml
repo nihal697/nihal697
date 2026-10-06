@@ -19,10 +19,8 @@ jobs:
 
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # NOTE: a personal token with repo+read:user would give true view
-          # counts, but the stored token lacked read:user and broke the stats
-          # cards entirely — GITHUB_TOKEN renders everything except exact views.
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Personal token (repo + read:user) — true view counts.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: profile-summary-card-output

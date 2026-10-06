@@ -23,12 +23,3 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: profile-summary-card-output
-
-      # The action's built-in push is flaky (silent no-op); make the
-      # output branch exist for real.
-      - name: Publish output branch
-        run: |
-          git status --short | head -n 5
-          git branch -a
-          git log --oneline -3
-          git push -u origin profile-summary-card-output

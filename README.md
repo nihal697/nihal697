@@ -11,5 +11,7 @@ Learning in the open: I tweak and extend open-source tools — e.g. my [SnapTile
 
 ## 📊 Github Stats
 
-![](https://raw.githubusercontent.com/nihal697/nihal697/main/profile-summary-card-output/default/3-stats.svg)
-![](https://raw.githubusercontent.com/nihal697/nihal697/main/profile-summary-card-output/default/2-most-commit-language.svg)
+[![Stats](https://raw.githubusercontent.com/nihal697/nihal697/main/profile-summary-card-output/default/3-stats.svg)](https://github.com/pulls?q=is%3Apr+author%3Anihal697)
+[![Top Languages](https://raw.githubusercontent.com/nihal697/nihal697/main/profile-summary-card-output/default/2-most-commit-language.svg)](https://github.com/nihal697?tab=repositories)
+
+⭐ [Stars](https://github.com/nihal697?tab=stars) · ⑂ [PRs](https://github.com/pulls?q=is%3Apr+author%3Anihal697) · 🐞 [Issues](https://github.com/issues?q=is%3Aissue+author%3Anihal697) · 📦 [Repos](https://github.com/nihal697?tab=repositories)

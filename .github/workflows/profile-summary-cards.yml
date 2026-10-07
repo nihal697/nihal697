@@ -1,5 +1,11 @@
 name: GitHub-Profile-Summary-Cards
 
+# One run at a time: duplicate runs race on the same commit and the loser
+# fails its git push — each failure sends you an email.
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: true
+
 on:
   schedule: # every Sunday at midnight
     - cron: "0 0 * * 0"
